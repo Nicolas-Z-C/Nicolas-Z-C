@@ -25,7 +25,7 @@ Always learning, breaking, and securing systems ⚔️
 ## 🌐 Socials
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nicolas-zabala-softdev)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nicolascampus117@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascampus117@gmail.com)
 
 ---
 
