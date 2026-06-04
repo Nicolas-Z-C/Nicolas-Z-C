@@ -24,28 +24,39 @@ Always learning, breaking, and securing systems ⚔️
 
 ## 🌐 Socials
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/nicolas-zabala-softdev)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:nicolascampus117@gmail.com)
+<p align="left">
+  <a href="https://linkedin.com/in/nicolas-zabala-softdev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nicolascampus117@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+</p>
 
 ---
-
 ## 💻 Tech Stack
 
 ### ⚡ Backend & Development
-[![.NET Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,mysql,docker)](https://skillicons.dev)
+[![.NET Skills](https://skillicons.dev/icons?i=dotnet,cs,visualstudio,mysql,docker,git,github)](https://skillicons.dev)
 
 ### 🛡️ Security & Red Team
 [![Security Skills](https://skillicons.dev/icons?i=linux,bash,c,python,kali)](https://skillicons.dev)
 
----
 
+---
 ## ⭐ Featured Projects
 
 | Repositorio                                                                   | Stack Tecnológico              | Descripción                                                                   |
 | -------------------------------------------------------------------------------- | ---------------------------------- | --------------------------------------------------------------------------------- |
 | [**NexusERP**](https://github.com/Nicolas-Z-C/Nexus_ERP) | `C#` `SQLserver` `Docker` `MediatR`                  | Enterprise ERP platform aimed at optimizing project development, monitoring, and inventory management, along with financial projections and resource planning.                   |
 ---
+<h3 align="left">📊 Mis Estadísticas de GitHub</h3>
+<p align="left">
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Z-C&background=02040a&ring=b91c1c&fire=b91c1c&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&currStreakLabel=b91c1c&dates=431407" alt="GitHub Streak Stats" height="192px" />
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nicolas-Z-C&layout=compact&title_color=b91c1c&text_color=ffffff&bg_color=02040a&hide_border=true&langs_count=6" alt="Lenguajes más usados" height="192px" />
+</p>
 
 <p align="center">
   <i>"Social engineering evades all technologies, including firewalls."</i><br>
